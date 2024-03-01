@@ -31,7 +31,7 @@
         "<all_urls>"
       ],
       "js": [
-        "path/to/content_script.js"
+        "./glasslenses.js"
       ]
     }
   ]
